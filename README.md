@@ -1,3 +1,3 @@
 # Amazon---testing
-selenium testing code is in master branch
-final report for test-case is avaliable
+1.selenium testing code is in master branch
+2.final report for test-case is avaliable
